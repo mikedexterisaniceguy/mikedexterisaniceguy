@@ -49,5 +49,11 @@ I am an IOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikedexterisaniceguy&theme=dark&background=000000)](https://git.io/streak-stats)
     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikedexterisaniceguy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
