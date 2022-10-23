@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/кирилл-doomfist-42a635230/">
+  <a href="https://www.linkedin.com/in/kiryl-maksimau-42a635230/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/mikedexterisaniceguy">
@@ -31,7 +31,7 @@ I am an IOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :zap: In my free time, I do sports, listen to music and tend my garden.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mikedexterisaniceguy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/кирилл-doomfist-42a635230/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mikedexterisaniceguy-blue?style=flat&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/kiryl-maksimau-42a635230/)
 
 ---
 
