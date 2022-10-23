@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/D4E16AQFOqVoDo5TLWw/profile-displaybackgroundimage-shrink_350_1400/0/1666513083215?e=1672272000&v=beta&t=WVz2DfkNGad1ABSQV0EFMs4B8XsGcx9RdQOkV92HeFM" width="900" height="220"/>
+  <img src="https://github.com/mikedexterisaniceguy/mikedexterisaniceguy/blob/main/White%20and%20Yellow%20Minimalist%20Profile%20LinkedIn%20Banner-4.png?raw=true" />
 </div>
 
 <div id="badges" align="center">
