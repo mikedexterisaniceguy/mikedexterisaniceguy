@@ -9,7 +9,7 @@
   <a href="https://t.me/mikedexterisaniceguy">
     <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     <h1>
-    hey there
+    Hi there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
   </a>
